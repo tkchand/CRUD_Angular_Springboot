@@ -1,0 +1,16 @@
+{
+	"Employees": [{
+			"id": 1,
+			"empCode": "tchand",
+			"jobTitleName": "Developer",
+			"firstName": "Tanmay",
+			"lastName": "Chand",
+			"phoneNumber": "401234567",
+			"address1": "Coppell",
+			"address2": "Texas-75019",
+			"email": "tanmay@gmail.com",
+			"age"  : 35,
+			"salary" : 150000
+		} 
+	]
+}

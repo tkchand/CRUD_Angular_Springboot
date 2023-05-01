@@ -1,0 +1,15 @@
+[
+	{
+		"id": 1,
+		"empCode": "TanmayChand",
+		"jobTitleName": "Developer",
+		"firstName": "Tanmay",
+		"lastName": "Chand",
+		"emailId": "tanmay@gmail.com",
+		"phoneNumber": 98999,
+		"address1": "Coppell",
+		"address2": "TX",
+		"age": 40,
+		"salary": 1234.0
+	}
+]
